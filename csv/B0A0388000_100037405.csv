@@ -1,0 +1,6 @@
+Image Name,DefectName,Severity,NumberOfPoints
+CoilMarkBreak_3_0,CoilMarkBreak,3,3139,778,3481,778,3481,2030,3139,2030
+StoneRubbing_2_1,StoneRubbing,2,2419,1024,2990,1024,2990,1275,2419,1275
+BoatScale_2_2,BoatScale,2,1679,456,1737,456,1737,599,1679,599
+WhiteBoatScale_2_3,WhiteBoatScale,2,1741,123,1923,123,1923,423,1741,423
+WhiteBoatScale_2_4,WhiteBoatScale,2,2221,2,2394,2,2394,314,2221,314

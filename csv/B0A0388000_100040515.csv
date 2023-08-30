@@ -1,0 +1,9 @@
+Image Name,DefectName,Severity,NumberOfPoints
+CoilMarkBreak_2_0,CoilMarkBreak,2,784,702,1152,702,1152,1158,784,1158
+CoilMarkBreak_2_1,CoilMarkBreak,2,792,1436,1196,1436,1196,1699,792,1699
+CoilMarkBreak_2_2,CoilMarkBreak,2,3221,55,3490,55,3490,614,3221,614
+WhiteBoatScale_3_3,WhiteBoatScale,3,1846,1085,1925,1085,1925,1448,1846,1448
+StickyScale_2_4,StickyScale,2,1711,743,1790,743,1790,991,1711,991
+StickyScale_2_5,StickyScale,2,2258,1872,2346,1872,2346,2042,2258,2042
+TongueMark_2_6,TongueMark,2,833,242,2668,242,2668,772,833,772
+WhiteBoatScale_2_7,WhiteBoatScale,2,2305,918,2487,918,2487,1385,2305,1385
